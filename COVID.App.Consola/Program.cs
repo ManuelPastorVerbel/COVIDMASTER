@@ -13,11 +13,15 @@ namespace COVID.App.Consola
        private static IRepositorioProfesor _repoProfesor = new RepositorioProfesor(new Persistencia.AppContext());
        private static IRepositorioEstudiante _repoEstudiante = new RepositorioEstudiante(new Persistencia.AppContext());
        private static IRepositorioHistoriaClinica _repoHistoriaClinica = new RepositorioHistoriaClinica(new Persistencia.AppContext());
+
+       private static IRepositorioPersona _repoPersona = new RepositorioPersona(new Persistencia.AppContext());
+        
+       private static IRepositorioSalon _repoSalon =new RepositorioSalon(new Persistencia.AppContext());
+
+       private static IRepositorioSede _repoSede = new RepositorioSede(new Persistencia.AppContext());
         static void Main(string[] args)
 
         {
-            
-            
             bool salir = false;
             while (!salir)
             {
@@ -28,9 +32,10 @@ namespace COVID.App.Consola
                Console.ForegroundColor = ConsoleColor.White;
                Console.Write("                           1.Registrar Profesor \n");
                 Console.Write("                           2.Registrar Estudiante\n");
-                Console.Write("                           3.Registar Directivo\n");
-                Console.Write("                           4.Registrar Personal de Aseo\n"); 
-                Console.Write("                           5.salir\n");       
+                Console.Write("                           3.consultar Persona\n");
+                Console.Write("                           4.crear Salon\n"); 
+                Console.Write("                           5.crear sede\n");       
+                Console.Write("                           6.salir\n");       
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Seleccione opcion...");
                 int opcion = Convert.ToInt32(Console.ReadLine());
@@ -53,12 +58,12 @@ namespace COVID.App.Consola
                         string asignatura=Console.ReadLine();
                         Console.WriteLine("Historia Clinica");
                         Console.WriteLine("cuales Sintomas tienes :");
-                        string Sintoma=Console.ReadLine();
-                        DateTime fecha=DateTime.Now;
+                        string Sintoma2=Console.ReadLine();
+                        DateTime fecha2=DateTime.Now;
                         var historiaclinica=new HistoriaClinica()
                         {
-                            Sintoma =Sintoma,
-                            fecha=fecha
+                            Sintoma =Sintoma2,
+                            fecha=fecha2
                         };
                         var profesor =new Profesor()
                         {
@@ -92,12 +97,12 @@ namespace COVID.App.Consola
                         int semestre=Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Historia Clinica");
                         Console.WriteLine("cuales Sintomas tienes :");
-                        string Sintoma=Console.ReadLine();
-                        DateTime fecha=DateTime.Now;
-                        var historiaclinica=new HistoriaClinica()
+                        string Sintoma3=Console.ReadLine();
+                        DateTime fecha3=DateTime.Now;
+                        var historiaclinicaE=new HistoriaClinica()
                         {
-                            Sintoma =Sintoma,
-                            fecha=fecha
+                            Sintoma =Sintoma3,
+                            fecha=fecha3
                         };
                         var estudiante =new Estudiante()
                         {
@@ -105,7 +110,7 @@ namespace COVID.App.Consola
                             apellido=apellidoEstudiante,
                             edad=edadEstudiante,
                             estado=Estado.negativo,
-                            historiaclinica=historiaclinica,
+                            historiaclinica=historiaclinicaE,
                             carrera=carrera,
                             semestre=semestre
                         };
@@ -115,16 +120,25 @@ namespace COVID.App.Consola
                         break;
 
                     case 3:
-                        Console.WriteLine("Ud seleccionó la opción Buscar");
-                        Console.Write("Presione una tecla para continuar...");
+                        Console.WriteLine("id a Buscar");
+                        int idPersona=Convert.ToInt32(Console.ReadLine());
+                       var persona =_repoPersona.GetPersona(idPersona);
+                        
+                        
                         Console.ReadKey();
                         break;
 
                     case 4:
                         Console.WriteLine("Chao");
+                        AdicionarSAlon();
 
+                        Console.ReadKey();
                         break;
                     case 5:
+                        CrearSede();
+                        Console.ReadKey();
+                        break;
+                    case 6:
                     salir = true;
                     break;
                     default:
@@ -133,6 +147,38 @@ namespace COVID.App.Consola
 
                 }
             }
+        }
+
+        public static void AdicionarSAlon()
+        {
+          var salon = new Salon()
+          {
+              aforo =15,
+              numerosalon=7,
+              unidad = "bolivar",
+              cursosalon= new System.Collections.Generic.List<CursoSalon>{
+                  new CursoSalon{},
+                  new CursoSalon{}
+              }
+
+          };
+         _repoSalon.AddSalon(salon);
+        }
+        public static void CrearSede(){
+            var sede= new Sede()
+                    {
+                      nombre_sede="carlos magno",
+                      cantidad_salones=5,
+                      salones= new System.Collections.Generic.List<Salon>{
+                          new Salon
+                          {aforo=15,numerosalon=8,unidad="reto",cursosalon= new System.Collections.Generic.List<CursoSalon>
+                                                                                     {
+                                                                                      new CursoSalon{},
+                                                                                      new CursoSalon{}}
+                                   }
+                                                                     }
+                    };
+            _repoSede.AddSede(sede);
         }
     }
 }

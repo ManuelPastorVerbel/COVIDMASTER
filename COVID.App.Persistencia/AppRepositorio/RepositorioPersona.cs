@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 using COVID.App.Dominio;
+using System;
 
 namespace COVID.App.Persistencia
 {
@@ -26,7 +28,7 @@ namespace COVID.App.Persistencia
        Persona IRepositorioPersona.GetPersona(int idPersona)
         {
            
-            var PersonaEncontrado= _appContext.Personas.FirstOrDefault(p => p.id == idPersona);
+            var PersonaEncontrado= _appContext.Personas.Where(p => p.id == idPersona).Include(p => p.historiaclinica).FirstOrDefault();
             return PersonaEncontrado;
         }
 
