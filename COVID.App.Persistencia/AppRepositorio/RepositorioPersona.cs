@@ -28,7 +28,7 @@ namespace COVID.App.Persistencia
        Persona IRepositorioPersona.GetPersona(int idPersona)
         {
            
-            var PersonaEncontrado= _appContext.Personas.Where(p => p.id == idPersona).Include(p => p.historiaclinica).FirstOrDefault();
+          var PersonaEncontrado= _appContext.Personas.Include(p => p.historiaclinica).Where(p => p.id == idPersona).FirstOrDefault();
             return PersonaEncontrado;
         }
 

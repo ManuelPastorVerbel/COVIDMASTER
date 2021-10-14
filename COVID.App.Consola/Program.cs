@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace COVID.App.Consola
 {
@@ -34,8 +35,9 @@ namespace COVID.App.Consola
                 Console.Write("                           2.Registrar Estudiante\n");
                 Console.Write("                           3.consultar Persona\n");
                 Console.Write("                           4.crear Salon\n"); 
-                Console.Write("                           5.crear sede\n");       
-                Console.Write("                           6.salir\n");       
+                Console.Write("                           5.crear sede\n");
+                Console.Write("                           6.Salir\n");            
+                     
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Seleccione opcion...");
                 int opcion = Convert.ToInt32(Console.ReadLine());
@@ -123,6 +125,13 @@ namespace COVID.App.Consola
                         Console.WriteLine("id a Buscar");
                         int idPersona=Convert.ToInt32(Console.ReadLine());
                        var persona =_repoPersona.GetPersona(idPersona);
+                       Console.WriteLine(persona.nombre);
+                       Console.WriteLine(persona.apellido);
+                       Console.WriteLine(persona.edad);
+                       HistoriaClinica h = persona.historiaclinica;
+                       Console.WriteLine(h.Sintoma);
+                       Console.WriteLine(h.fecha);
+
                         
                         
                         Console.ReadKey();
@@ -144,6 +153,9 @@ namespace COVID.App.Consola
                     default:
                     Console.WriteLine("Elige una opcion entre 1 y 4");
                     break;
+
+                    
+                   
 
                 }
             }
