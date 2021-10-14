@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\COVID.App.Dominio\COVID.App.Dominio.csproj" />
+    <ProjectReference Include="..\COVID.App.Persistencia\COVID.App.Persistencia.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

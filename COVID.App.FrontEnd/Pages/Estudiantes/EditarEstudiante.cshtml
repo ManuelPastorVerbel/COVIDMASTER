@@ -1,0 +1,40 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.EditarEstudianteModel
+@{
+}
+<h1>Editar Estudiante</h1>
+<form method="post">
+    <input  type="hidden" asp-for="estudiante.id">
+       
+    <div class="form-group">
+        <label asp-for="estudiante.nombre"></label>
+        <input asp-for="estudiante.nombre" class="form-control">
+        <span class="text_danger" asp-validation.for="estudiante.nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.apellido"></label>
+        <input asp-for="estudiante.apellido" class="form-control">
+        <span class="text_danger" asp-validation.for="estudiante.apellido"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.edad"></label>
+        <input asp-for="estudiante.edad" class="form-control">
+        <span class="text_danger" asp-validation.for="estudiante.edad"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.estado"></label>
+        <input asp-for="estudiante.estado" class="form-control">
+        <span class="text_danger" asp-validation.for="estudiante.estado"></span> 
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.carrera"></label>
+        <input asp-for="estudiante.carrera" class="form-control">
+        <span class="text_danger" asp-validation.for="estudiante.carrera"></span> 
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.semestre"></label>
+        <input asp-for="estudiante.semestre" class="form-control">
+         <span class="text_danger" asp-validation.for="estudiante.semestre"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+</form>

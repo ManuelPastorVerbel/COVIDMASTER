@@ -1,0 +1,36 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.EditarDirectivoModel
+@{
+}
+<h1>Editar Directivo</h1>
+<form method="post">
+    <input  type="hidden" asp-for="directivo.id">
+       
+    <div class="form-group">
+        <label asp-for="directivo.nombre"></label>
+        <input asp-for="directivo.nombre" class="form-control">
+        <span class="text_danger" asp-validation.for="directivo.nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="directivo.apellido"></label>
+        <input asp-for="directivo.apellido" class="form-control">
+        <span class="text_danger" asp-validation.for="directivo.apellido"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="directivo.edad"></label>
+        <input asp-for="directivo.edad" class="form-control">
+        <span class="text_danger" asp-validation.for="directivo.edad"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="directivo.estado"></label>
+        <input asp-for="directivo.estado" class="form-control">
+        <span class="text_danger" asp-validation.for="directivo.estado"></span> 
+    </div>
+    <div class="form-group">
+        <label asp-for="directivo.facultad"></label>
+        <input asp-for="directivo.facultad" class="form-control">
+        <span class="text_danger" asp-validation.for="directivo.facultad"></span> 
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+</form>

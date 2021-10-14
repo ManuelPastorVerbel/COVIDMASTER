@@ -1,0 +1,35 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.DetalleDirectivooModel
+@{
+}
+<h1>Hoja de Detalles Directivo</h1>
+
+
+    <table class="table">
+        <tr>
+            <td><b>Nombre:</b></td>
+            <td>@Model.directivo.nombre</td>
+        </tr>
+        <tr>
+            <td><b>Apellidos:</b></td>
+            <td>@Model.directivo.apellido</td>
+        </tr>
+        <tr>
+            <td><b>Edad:</b></td>
+            <td>@Model.directivo.edad</td>
+        </tr>
+        <tr>
+             <td><b>Estado COVID:</b></td>
+             <td>@Model.directivo.estado</td>
+        </tr> 
+        <tr>
+             <td><b>Facultad:</b></td>
+             <td>@Model.directivo.facultad</td>
+        </tr>
+         
+    </table>
+    
+     <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+         <i class="fas fa-home"></i>
+
+     </a>

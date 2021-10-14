@@ -1,0 +1,30 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.EstudiantesModel
+@{
+}
+<h1>Lista de Estudiantes</h1>
+<table class="table">
+    <tr>
+            <td><b>Nombre</b></td>
+            <td><b>Apellidos</b></td>
+            <td>
+                <a class="btn btn-primary table-btn" asp page="."></a>
+            </td>
+
+    </tr>
+        @foreach(var estudiante in Model.Estudiantes)
+    {
+        <tr>
+            <td>@estudiante.nombre</td>
+            <td>@estudiante.apellido</td>
+            
+            <td>
+                <a class="btn btn-primary table-btn" asp-area="" asp-page="/Personas/Detalle" asp-route-idEstudianter="@estudiante.id">
+                    <i class="fas fa-info-circle"></i>
+                    Detalle
+                </a>
+            </td>
+            
+        </tr>
+    }
+</table>

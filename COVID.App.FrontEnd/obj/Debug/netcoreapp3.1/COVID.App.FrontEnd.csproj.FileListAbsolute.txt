@@ -1,0 +1,199 @@
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.exe
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.deps.json
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.runtimeconfig.json
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.runtimeconfig.dev.json
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.Views.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.Views.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.Dominio.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.Dominio.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorAssemblyInfo.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorAssemblyInfo.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.AssemblyInfoInputs.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.AssemblyInfo.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.TagHelpers.input.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.TagHelpers.output.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorCoreGenerate.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\List.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.Views.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.csproj.CopyComplete
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\COVID.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\COVID.App.FrontEnd.StaticWebAssets.xml
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.dll
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.pdb
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.csprojAssemblyReference.cache
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Detalle.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Estudiantes.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Editar.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Eliminar.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\ListaEstudiantes.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\DetalleEstudiante.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\EditarEstudiante.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\EliminarEstudiante.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Directivos\ListaDirectivo.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Directivos\EditarDirectivo.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Directivos\DetalleDirectivo.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Directivos\EliminarDirectivo.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\PersonalAseo\ListaPersonalAseo.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\PersonalAseo\DetallePersonalAseo.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\PersonalAseo\EditarPersonalAseo.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\PersonalAseo\EliminarPersonalAseo.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\BuscarPersona.cshtml.g.cs
+C:\COVID19\COVID.App\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\DetallePersona.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.exe
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.deps.json
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.runtimeconfig.json
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.runtimeconfig.dev.json
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.Views.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.FrontEnd.Views.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.Dominio.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.Dominio.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\bin\Debug\netcoreapp3.1\COVID.App.Persistencia.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.csproj.AssemblyReference.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.AssemblyInfo.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorAssemblyInfo.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorAssemblyInfo.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\COVID.App.FrontEnd.StaticWebAssets.Manifest.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\COVID.App.FrontEnd.StaticWebAssets.xml
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\scopedcss\bundle\COVID.App.FrontEnd.styles.css
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.TagHelpers.input.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.TagHelpers.output.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorCoreGenerate.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Directivos\DetalleDirectivo.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Directivos\EditarDirectivo.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Directivos\EliminarDirectivo.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Directivos\ListaDirectivo.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\DetalleEstudiante.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\EditarEstudiante.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\EliminarEstudiante.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Estudiantes\ListaEstudiantes.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\PersonalAseo\DetallePersonalAseo.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\PersonalAseo\EditarPersonalAseo.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\PersonalAseo\EliminarPersonalAseo.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\PersonalAseo\ListaPersonalAseo.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\BuscarPersona.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Detalle.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\DetallePersona.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Editar.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Eliminar.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Estudiantes.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\List.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.RazorTargetAssemblyInfo.cs
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.Views.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.csproj.CopyComplete
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.dll
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.pdb
+C:\Users\Familia\Downloads\ADSI (2175812)\MTIC\programacion basica\ciclo 3\COVID19-master2\COVID19-master\COVID.App.FrontEnd\obj\Debug\netcoreapp3.1\COVID.App.FrontEnd.genruntimeconfig.cache

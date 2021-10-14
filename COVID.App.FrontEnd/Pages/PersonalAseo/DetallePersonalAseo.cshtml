@@ -1,0 +1,35 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.DetallePersonalAseoModel
+@{
+}
+<h1>Hoja de Detalles Personal de Aseo</h1>
+
+
+    <table class="table">
+        <tr>
+            <td><b>Nombre:</b></td>
+            <td>@Model.personal_aseo.nombre</td>
+        </tr>
+        <tr>
+            <td><b>Apellidos:</b></td>
+            <td>@Model.personal_aseo.apellido</td>
+        </tr>
+        <tr>
+            <td><b>Edad:</b></td>
+            <td>@Model.personal_aseo.edad</td>
+        </tr>
+        <tr>
+             <td><b>Estado COVID:</b></td>
+             <td>@Model.personal_aseo.estado</td>
+        </tr> 
+        <tr>
+             <td><b>Turno:</b></td>
+             <td>@Model.personal_aseo.turno</td>
+        </tr>
+         
+    </table>
+    
+     <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+         <i class="fas fa-home"></i>
+
+     </a>

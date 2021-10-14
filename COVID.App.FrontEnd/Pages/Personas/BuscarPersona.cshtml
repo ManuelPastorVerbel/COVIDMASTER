@@ -1,0 +1,40 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.BuscarPersonaModel
+@{
+}
+<h1>Resultado de su Busqueda</h1>
+
+
+  <table class="table">
+    <tr>
+            <td><b>ID</b></td>
+            <td><b>Nombre</b></td>
+            <td><b>Apellidos</b></td>
+            <td>
+                <a class="btn btn-primary table-btn" asp page=""></a>
+            </td>
+
+    </tr>
+        @foreach(var persona in Model.Personas)
+    {
+        <tr>
+            <td>@persona.id</td>
+            <td>@persona.nombre</td>
+            <td>@persona.apellido</td>
+            
+            
+        
+            <td>
+                <a class="btn btn-primary table-btn" asp-area="" asp-page="./DetallePersona" asp-route-idPersona="@persona.id">
+                    <i class="fas fa-info-circle"></i>
+                    
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+    
+     <a class="btn btn-primary table-btn" asp-area="" asp-page="/Index">
+         <i class="fas fa-home"></i>
+
+     </a>

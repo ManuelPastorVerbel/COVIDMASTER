@@ -1,0 +1,45 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.ListaPersonalAseoModel
+@{
+}
+<h1 class="heading__title">Lista de Personal de Aseo</h1>
+<table class="table">
+    <tr>
+            <td>><b>ID</b></td>
+            <td><b>Nombre</b></td>
+            <td><b>Apellidos</b></td>
+            <td>
+                <a class="btn btn-primary table-btn" asp page=""></a>
+            </td>
+
+    </tr>
+        @foreach(var personalAseo in Model.Personal_Aseo)
+    {
+        <tr>
+            <td>@personalAseo.id</td>
+            <td>@personalAseo.nombre</td>
+            <td>@personalAseo.apellido</td>
+            
+            <td>
+                <a class="btn btn-primary table-btn" asp-area="" asp-page="./DetallePersonalAseo" asp-route-idPersonal_Aseo="@personalAseo.id">
+                    <i class="fas fa-info-circle"></i>
+                    
+                </a>
+            </td>
+             <td>
+                <a class="btn btn-secondary table-btn" asp-area="" asp-page="./EditarPersonalAseo" asp-route-idPersonal_Aseo="@personalAseo.id">
+                    <i class="fas fa-pen-square"></i>
+                    
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger table-btn" asp-area="" asp-page="./EliminarPersonalAseo" asp-route-idPersonal_Aseo="@personalAseo.id">
+                    <i class="fa fa-trash-alt"></i>
+                    
+                </a>
+            </td>
+            
+        </tr>
+    }
+</table>
+<a asp-page="./EditarPersonalAseo" class="btn btn-primary">Adicionar Personal Aseo </a>

@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - UM Gestión COVID</title>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="~/images/favicon.ico" type="image/x-icon" >
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-primary border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">UM Gestión COVID</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <button class="btn btn-default  dropdown-toggle text-white" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                             Lista
+                            </button>
+                            <div class="dropdown-menu"  aria-labelledby="dropdownMenuButton">
+                              <a class="dropdown-item" asp-page="/Personas/list">Profesores</a>
+                              <a class="dropdown-item" asp-page="/Estudiantes/ListaEstudiantes">Estudiantes</a>
+                              <a class="dropdown-item" asp-page="/Directivos/ListaDirectivo">Directivos</a>
+                              <a class="dropdown-item" asp-page="/PersonalAseo/ListaPersonalAseo">Personal Aseo</a>  
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                 
+                     <form class="form-inline" action="/Personas/BuscarPersona" method="get">
+                         <input class="form-control mr-sm-2" type="search" name="FiltroBusqueda" placeholder=" " aria-label="Buscar">
+                       <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">Buscar</button>
+                     </form>
+                 
+            </div>
+        </nav>
+    </header>
+    <div class="social-bar">
+          <a href="https://www.facebook.com" class="icon icon-facebook" target="_blank"></a>
+          <a href="https://twitter.com" class="icon icon-twitter" target="_blank"></a>
+        <a href="https://www.youtube.com" class="icon icon-youtube" target="_blank"></a>
+    </div>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - UM Gestión COVID - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

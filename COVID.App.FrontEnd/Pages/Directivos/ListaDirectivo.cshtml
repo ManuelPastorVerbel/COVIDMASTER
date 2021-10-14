@@ -1,0 +1,45 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.ListaDirectivoModel
+@{
+}
+<h1 class="heading__title">Lista de Directivos</h1>
+<table class="table">
+    <tr>
+            <td><b>ID</b></td>
+            <td><b>Nombre</b></td>
+            <td><b>Apellidos</b></td>
+            <td>
+                <a class="btn btn-primary table-btn" asp page=""></a>
+            </td>
+
+    </tr>
+        @foreach(var directivo in Model.Directivos)
+    {
+        <tr>
+            <td>@directivo.id</td>
+            <td>@directivo.nombre</td>
+            <td>@directivo.apellido</td>
+            
+            <td>
+                <a class="btn btn-primary table-btn" asp-area="" asp-page="./DetalleDirectivo" asp-route-idDirectivo="@directivo.id">
+                    <i class="fas fa-info-circle"></i>
+                    
+                </a>
+            </td>
+             <td>
+                <a class="btn btn-secondary table-btn" asp-area="" asp-page="./EditarDirectivo" asp-route-idDirectivo="@directivo.id">
+                    <i class="fas fa-pen-square"></i>
+                    
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger table-btn" asp-area="" asp-page="./EliminarDirectivo" asp-route-idEstudiante="@directivo.id">
+                    <i class="fa fa-trash-alt"></i>
+                    
+                </a>
+            </td>
+            
+        </tr>
+    }
+</table>
+<a asp-page="./EditarDirectivo" class="btn btn-primary">Adicionar Directivo </a>

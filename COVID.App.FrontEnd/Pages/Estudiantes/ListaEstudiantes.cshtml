@@ -1,0 +1,45 @@
+﻿@page
+@model COVID.App.FrontEnd.Pages.ListaEstudiantesModel
+@{
+}
+<h1 class="heading__title">Lista de Estudiantes</h1>
+<table class="table">
+    <tr>
+            <td>><b>ID</b></td>
+            <td><b>Nombre</b></td>
+            <td><b>Apellidos</b></td>
+            <td>
+                <a class="btn btn-primary table-btn" asp page=""></a>
+            </td>
+
+    </tr>
+        @foreach(var estudiante in Model.Estudiantes)
+    {
+        <tr>
+            <td>@estudiante.id</td>
+            <td>@estudiante.nombre</td>
+            <td>@estudiante.apellido</td>
+            
+            <td>
+                <a class="btn btn-primary table-btn" asp-area="" asp-page="./DetalleEstudiante" asp-route-idEstudiante="@estudiante.id">
+                    <i class="fas fa-info-circle"></i>
+                    
+                </a>
+            </td>
+             <td>
+                <a class="btn btn-secondary table-btn" asp-area="" asp-page="./EditarEstudiante" asp-route-idEstudiante="@estudiante.id">
+                    <i class="fas fa-pen-square"></i>
+                    
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger table-btn" asp-area="" asp-page="./EliminarEstudiante" asp-route-idEstudiante="@estudiante.id">
+                    <i class="fa fa-trash-alt"></i>
+                    
+                </a>
+            </td>
+            
+        </tr>
+    }
+</table>
+<a asp-page="./EditarEstudiante" class="btn btn-primary">Adicionar Estudiante </a>
