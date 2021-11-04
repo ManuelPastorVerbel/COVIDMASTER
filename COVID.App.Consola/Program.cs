@@ -179,8 +179,8 @@ namespace COVID.App.Consola
         public static void CrearSede(){
             var sede= new Sede()
                     {
-                      nombre_sede="carlos magno",
-                      cantidad_salones=5,
+                      nombre_sede="tierra magno",
+                      cantidad_salones=6,
                       salones= new System.Collections.Generic.List<Salon>{
                           new Salon
                           {aforo=15,numerosalon=8,unidad="reto",cursosalon= new System.Collections.Generic.List<CursoSalon>
